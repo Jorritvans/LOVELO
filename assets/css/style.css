@@ -13,14 +13,19 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: black;
+    color: #3a3a3a;
     font-family: 'Lato', sans-serif;
 }
 
 
 /* Header */
 header {
-    background-color: lightgreen;
+    background-color: #ffffff;
+    padding:  0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 3px 3px #3a3a3a;
 }
 
 h1 {
