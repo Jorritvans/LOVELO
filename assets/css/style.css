@@ -84,7 +84,7 @@ nav {
 
 /* Main content */
 main {
-    background-color: lightblue;
+    background-color: lightgreen;
     /* Pushing the footer to the bottom */ 
     flex: 1 0 auto;
     margin-top: 47px;
