@@ -109,16 +109,33 @@ main {
     padding-bottom: 10px;
 }
 
-#cover-text > h2, #cover-text > h3 {
+#info h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+#cover-text>h2,
+#cover-text>h3 {
     color: #ffffff;
 }
 
-#info div {
-    color: #3a3a3a;
-    background-color: #ffffff;
-    padding: 15px;
+/*reasons*/
+
+#benefits {
+    width: 90%;
+    margin: 20px auto;
+}
+
+
+#reasons {
     text-align: center;
 }
+
+#why {
+    
+}
+
 /* Footer */
 #social-media {
     text-align: center;
