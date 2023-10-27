@@ -137,6 +137,17 @@ main {
     padding: 15px;
     
 }
+
+
+#benefits-image {
+    background: url('../images/front\ image-min.png') no-repeat top center / cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    height: 380px;
+    width: 100%;
+}
 /* Meetup*/
 #times {
     display: flex;
