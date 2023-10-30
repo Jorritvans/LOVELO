@@ -214,6 +214,17 @@ main {
     background-color: rgba(147, 220, 242, 0.7);
 }
 
+#succes-page {
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding: 15px;
+}
+
 /* Media query for Tablets (768 px)*/
 @media screen and (min-width: 768px) {
     nav{
