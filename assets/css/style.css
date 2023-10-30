@@ -89,6 +89,11 @@ main {
     margin-top: 47px;
 }
 
+#info {
+    text-align: center;
+}
+
+
 /* Hero */
 #hero {
     height: 610px;
@@ -144,8 +149,10 @@ main {
     justify-content: center;
     margin-bottom: 20px;
     margin-top: 20px;
-    height: 500px;
+    height: 300px;
     width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 /* Meetup*/
@@ -174,12 +181,37 @@ main {
     display: flex;
     justify-content:space-evenly;
     list-style-type: none;
+    background-color: #ffffff;
 }
 
 #social-media i{
     font-size: 165%;
     padding: 5%;
     color: #3a3a3a;
+}
+
+/* join us styling*/
+#signup-form {
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: lightskyblue;
+    border-radius: 15px;
+}
+
+#signup-form form {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#joinus-body {
+    background-color: rgba(147, 220, 242, 0.7);
 }
 
 /* Media query for Tablets (768 px)*/
@@ -227,4 +259,23 @@ main {
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
     }
+    #benefits-image {
+        background: url('../images/front\ image-min.png') no-repeat center center / cover;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        height: 700px;
+        width: 40%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+        #container {
+            width: 80%;
+            height: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #ffffff;
+        }
+        main {
+            background-color: rgba(147, 220, 242, 0.7);
+        }
 }
