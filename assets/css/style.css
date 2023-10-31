@@ -199,7 +199,7 @@ main {
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    background-color: lightskyblue;
+    background-color: lightgreen;
     border-radius: 15px;
 }
 
@@ -279,14 +279,16 @@ main {
         margin-left: auto;
         margin-right: auto;
     }
-        #container {
-            width: 80%;
-            height: 100%;
-            margin-left: auto;
-            margin-right: auto;
-            background-color: #ffffff;
-        }
-        main {
-            background-color: rgba(147, 220, 242, 0.7);
-        }
+
+    #container {
+        width: 80%;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #ffffff;
+    }
+    
+    main {
+        background-color: rgba(147, 220, 242, 0.7);
+    }
 }
