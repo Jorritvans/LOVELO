@@ -201,6 +201,7 @@ main {
     color: #3a3a3a;
 }
 
+
 /* join us styling*/
 #signup-form {
     text-align: center;
@@ -234,6 +235,14 @@ main {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     padding: 15px;
+}
+
+/* Media query for large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+}
 }
 
 /* Media query for Tablets (768 px)*/
@@ -274,6 +283,10 @@ main {
         width: 200px;
         left: 50px;
     }
+    /* Gallery */
+    #photos {
+        column-count: 3;
+    }
 }
 
 /* Media query for laptops and computers */
@@ -301,5 +314,9 @@ main {
     
     main {
         background-color: rgba(147, 220, 242, 0.7);
+    }
+    /* Gallery */
+    #photos {
+        column-count: 4;
     }
 }
