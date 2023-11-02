@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #3a3a3a;
+    color: black;
     font-family: 'Lato', sans-serif;
 }
 
@@ -229,7 +229,10 @@ main {
 
 #joinus-body {
     background-color: rgba(147, 220, 242, 0.7);
+    
 }
+
+/*succes page styles */
 
 #succes-page {
     text-align: center;
@@ -300,11 +303,11 @@ main {
         border-bottom: 1px solid #3a3a3a;
     }
     #benefits-image {
-        background: url('../images/front\ image-min.png') no-repeat center center / cover;
+        background: url('../images/depositphotos_25935121-stock-photo-cyclists-with-sports-during-abbiglaimento.webp') no-repeat center center / cover;
         margin-bottom: 20px;
         margin-top: 20px;
         height: 700px;
-        width: 40%;
+        width: 100%;
         margin-left: auto;
         margin-right: auto;
     }
