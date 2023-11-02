@@ -1,4 +1,5 @@
 /* Google fonts import */
+
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto:wght@200;300;400;500;600;700&display=swap');
 
 /* Asterisk wildcard selector */
@@ -98,7 +99,7 @@ main {
 #hero {
     height: 610px;
     width: 100%;
-    background: url("../images/hero\ image.png") no-repeat center center/cover;
+    background: url("../images/hero\ image.webp") no-repeat center center/cover;
     position: relative;
 }
 
@@ -143,7 +144,7 @@ main {
 }
 
 #benefits-image {
-    background: url('../images/front\ image-min.png') no-repeat center center / cover;
+    background: url('../images/depositphotos_25935121-stock-photo-cyclists-with-sports-during-abbiglaimento.webp') no-repeat center center / cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -183,6 +184,10 @@ main {
 
 #photos {
     line-height: 0;
+}
+
+.hidden-heading {
+    display: none
 }
 
 /* Footer */
