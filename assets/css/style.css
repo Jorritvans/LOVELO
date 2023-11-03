@@ -253,6 +253,7 @@ main {
     font-size: 15px;
 }
 
+
 /*succes page styles */
 
 #succes-page {
@@ -361,12 +362,12 @@ main {
         height: 100%;
         margin-left: auto;
         margin-right: auto;
-        background-color: #ffffff;
     }
     
     main {
         background-color: rgba(147, 220, 242, 0.7);
     }
+
     /* Gallery */
     #photos {
         column-count: 4;
