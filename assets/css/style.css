@@ -229,7 +229,27 @@ main {
 
 #joinus-body {
     background-color: rgba(147, 220, 242, 0.7);
-    
+    font-size: 1.5em;
+}
+
+#home-button {
+    font-size: 20px;
+}
+
+#submit-button {
+    font-size: 20px;
+}
+
+#name {
+    font-size: 15px;
+}
+
+#email {
+    font-size: 15px;
+}
+
+#number {
+    font-size: 15px;
 }
 
 /*succes page styles */
@@ -244,6 +264,7 @@ main {
     transform: translate(-50%, -50%);
     padding: 15px;
 }
+
 
 /* Media query for large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
@@ -295,6 +316,11 @@ main {
     #photos {
         column-count: 3;
     }
+    /* join us */
+    #joinus-body {
+        background-color: rgba(147, 220, 242, 0.7);
+        font-size: 1.75em;
+    }
 }
 
 /* Media query for laptops and computers */
@@ -312,6 +338,10 @@ main {
         margin-right: auto;
     }
 
+    #benefits {
+        font-size: 1.5em;
+    }
+
     #container {
         width: 80%;
         height: 100%;
@@ -326,5 +356,10 @@ main {
     /* Gallery */
     #photos {
         column-count: 4;
+    }
+    /* join us */
+    #joinus-body {
+        background-color: rgba(147, 220, 242, 0.7);
+        font-size: 2.5em;
     }
 }
