@@ -85,6 +85,7 @@ nav {
 
 /* Main content */
 main {
+    background-color: rgba(147, 220, 242, 0.7);
     /* Pushing the footer to the bottom */ 
     flex: 1 0 auto;
     margin-top: 47px;
@@ -305,6 +306,7 @@ main {
     /* Main */
     main {
         margin-top: 90px;
+        background-color: rgba(147, 220, 242, 0.7);
     }
 
     /* Hero image text */
@@ -320,6 +322,18 @@ main {
     #joinus-body {
         background-color: rgba(147, 220, 242, 0.7);
         font-size: 1.75em;
+    }
+
+    #name {
+        font-size: 20px;
+    }
+    
+    #email {
+        font-size: 20px;
+    }
+    
+    #number {
+        font-size: 20px;
     }
 }
 
