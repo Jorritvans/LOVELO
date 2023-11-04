@@ -148,7 +148,7 @@ main {
 }
 
 #benefits-image {
-    background: url('../images/depositphotos_25935121-stock-photo-cyclists-with-sports-during-abbiglaimento.webp') no-repeat center center / cover;
+    background: url('../images/img_main-page-unpixelated-compressed.webp') no-repeat center center / cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -347,7 +347,7 @@ main {
         border-bottom: 1px solid #3a3a3a;
     }
     #benefits-image {
-        background: url('../images/depositphotos_25935121-stock-photo-cyclists-with-sports-during-abbiglaimento.webp') no-repeat center center / cover;
+        background: url('../images/img_main-page-unpixelated-compressed.webp') no-repeat center center / cover;
         margin-bottom: 20px;
         margin-top: 20px;
         height: 700px;
