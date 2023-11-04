@@ -95,6 +95,9 @@ main {
     text-align: center;
 }
 
+#h2-size{
+    font-size: 1.5em;
+}
 
 /* Hero */
 #hero {
@@ -366,6 +369,10 @@ main {
     
     main {
         background-color: rgba(147, 220, 242, 0.7);
+    }
+
+    #h2-size {
+        font-size: 3em;
     }
 
     /* Gallery */
