@@ -101,7 +101,7 @@ main {
 
 /* Hero */
 #hero {
-    height: 610px;
+    height: 450px;
     width: 100%;
     background: url("../images/hero-image-compressed.removed-watermark.webp") no-repeat center center/cover;
     position: relative;
@@ -289,6 +289,13 @@ main {
         padding-right: 1rem;
     }
 
+    #hero {
+        height: 610px;
+        width: 100%;
+        background: url("../images/hero-image-compressed.removed-watermark.webp") no-repeat center center/cover;
+        position: relative;
+    }
+
     #menu {
         display: flex;
     }
@@ -346,6 +353,14 @@ main {
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
     }
+
+    #hero {
+        height: 610px;
+        width: 100%;
+        background: url("../images/hero-image-compressed.removed-watermark.webp") no-repeat center center/cover;
+        position: relative;
+    }
+
     #benefits-image {
         background: url('../images/img_main-page-unpixelated-compressed.webp') no-repeat center center / cover;
         margin-bottom: 20px;
