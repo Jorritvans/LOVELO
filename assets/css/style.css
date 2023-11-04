@@ -101,7 +101,7 @@ main {
 
 /* Hero */
 #hero {
-    height: 450px;
+    height: 400px;
     width: 100%;
     background: url("../images/hero-image-compressed.removed-watermark.webp") no-repeat center center/cover;
     position: relative;
