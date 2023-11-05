@@ -436,8 +436,9 @@ main {
     }
     
     #joinus-body {
-        background-image: url("../images/join-us-finished.webp")
-        background-position: 75%;
+        background-image: url("../images/join-us-finished.webp");
+        background-size: cover;
+        background-position: 100%;
         padding: 20px 10% 0 10%;
         flex-grow: 1;
         font-size: 1.5em;
