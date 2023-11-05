@@ -103,7 +103,7 @@ main {
 #hero {
     height: 400px;
     width: 100%;
-    background: url("../images/hero-image-compressed.removed-watermark.webp") no-repeat center center/cover;
+    background: url("../images/hero-image-finished.webp") no-repeat center center/cover;
     position: relative;
 }
 
@@ -232,7 +232,7 @@ main {
 }
 
 #joinus-body {
-    background-image: url("../images/img_join-us-background-fully-finished.webp");
+    background-image: url("../images/join-us-finished.webp");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -246,7 +246,7 @@ main {
 
 #submit-button {
     font-size: 20px;
-    background-color: ;
+    background-color: #ffffff;
 }
 
 #name {
@@ -263,6 +263,11 @@ main {
 
 .text-input {
     background: transparent;
+}
+
+#newsletter {
+    width: 14px;
+    height: 14px;
 }
 
 /*succes page styles */
@@ -300,7 +305,7 @@ main {
     #hero {
         height: 610px;
         width: 100%;
-        background: url("../images/hero-image-compressed.removed-watermark.webp") no-repeat center center/cover;
+        background: url("../images/hero-image-finished.webp") no-repeat center center/cover;
         position: relative;
     }
 
@@ -376,7 +381,7 @@ main {
     #hero {
         height: 610px;
         width: 100%;
-        background: url("../images/hero-image-compressed.removed-watermark.webp") no-repeat center center/cover;
+        background: url("../images/hero-image-finished.webp") no-repeat center center/cover;
         position: relative;
     }
 
@@ -428,5 +433,13 @@ main {
         border: 2px solid black;
         border-radius: 2px;
         padding: 0 5px;
+    }
+    
+    #joinus-body {
+        background-image: url("../images/join-us-finished.webp")
+        background-position: 75%;
+        padding: 20px 10% 0 10%;
+        flex-grow: 1;
+        font-size: 1.5em;
     }
 }
