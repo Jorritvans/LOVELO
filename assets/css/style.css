@@ -246,7 +246,6 @@ main {
 
 #submit-button {
     font-size: 20px;
-    background-color: #ffffff;
 }
 
 #name {
@@ -370,6 +369,11 @@ main {
         border-radius: 2px;
         padding: 0 5px;
     }
+
+    #submit-button {
+        font-size: 20px;
+        background-color: #ffffff;
+    }
 }
 
 /* Media query for laptops and computers */
@@ -442,5 +446,10 @@ main {
         padding: 20px 10% 0 10%;
         flex-grow: 1;
         font-size: 1.5em;
+    }
+
+    #submit-button {
+        font-size: 20px;
+        background-color: #ffffff;
     }
 }
