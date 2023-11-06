@@ -34,4 +34,5 @@ Users that will be using this site will be able to find all the information need
   - This section shows the user where exactly the rides will be taking place and at what times they will be starting also including the distance that will be covered.
   - This section can be updated for the users if the times might change during the year.
 
-![Meetup times](https://github.com/Jorritvans/LOVELO/assets/146831899/9767c6ef-b305-42c3-a0aa-c7772bd0b662)
+![Meetup times](https://github.com/Jorritvans/LOVELO/assets/146831899/598dbce7-984b-4a6e-9070-0eb6193a06a3)
+
