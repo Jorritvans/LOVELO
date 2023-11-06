@@ -66,3 +66,42 @@ Users that will be using this site will be able to find all the information need
 
 ## Testing 
 
+In this Section i will be showing all the testing i have done.
+
+## Validator testing
+
+- __HTML__
+  - No errors were returned when having tested all the html files in the official W#C validator.
+
+- __CSS__
+  - No errors were found when checking the CSS passing it through the official (Jigsaw) validator.
+
+- __Accessibility__
+  - I can confirm that the colors and fonts of the website are easily readable and accessible by doing a lighthouse test through devtools.
+
+- __Home Page Score__
+![Lighthouse Score Home Page](https://github.com/Jorritvans/LOVELO/assets/146831899/aadbfe25-92cf-49e2-9a6a-864f84c642f0)
+
+- __Gallery Page Score__
+![Gallery Page Score](https://github.com/Jorritvans/LOVELO/assets/146831899/287bdf70-f85e-4fdc-aff3-62f0ebc20107)
+
+- __Join Us Page Score__
+![Join Us page Score](https://github.com/Jorritvans/LOVELO/assets/146831899/a12c73e1-3f9d-4be8-b5da-b3848348155c)
+
+## Unfixed Bugs
+
+No unfixed bugs.
+
+## Deployment 
+
+- __The site was deployed to GitHub pages. The steps are:
+  - In the GitHub repository go to the settings.
+  - From the source menu choose Master Branch
+  - Once that has been done the page provided me with the completed website.
+
+ The link to my website can be found here- https://jorritvans.github.io/LOVELO/
+
+  
+
+
+
