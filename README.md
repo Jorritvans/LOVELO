@@ -101,6 +101,25 @@ No unfixed bugs.
 
  The link to my website can be found here- https://jorritvans.github.io/LOVELO/
 
+## Credits
+
+- __Code__
+  - Repositioning of the succes page text and the Join us Page text were done with the help of my friend Arne Daerden https://github.com/Arne-Daerden
+  - The icons were all taken from https://fontawesome.com/
+  - Used https://stackoverflow.com/ sometimes to find the meaning of a code.
+  - Used the https://codeinstitute.net/ videos to look back at previous work and codes.
+
+- __Media__
+  - All pictures were taken from https://www.strava.com/
+
+## Advice and experience
+
+- __Struggles__
+  - Had a lot of issues trying to optimize every picture to look good and have a respectable loading time on the website, The main issue was that my idea was that i really wanted to use all the pictures from the actual group rides which some were taen by worse cameras whiich made the quality decrease..
+    but after a lot of searching up and using photo editors and converters i can say i have done everything in my power to make these pictures look the best way they possibly can be and i am pretty happy with how it all turned out.
+  - I struggled a lot with the design as i am not the most creative mind and i am very bad with choosing colors and pictures, so i constantly asked people to help me out so the design looked good.
+  - Sometimes i would forget what code to use and would search it up on google to find a solution and i am very proud of myself for always finding a solution to every issue i have encountered so far.
+
   
 
 
