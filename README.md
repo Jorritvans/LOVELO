@@ -28,3 +28,10 @@ Users that will be using this site will be able to find all the information need
   - The user will see the advantages of joining us in our groupride and that should encourage the user to sign up for our group ride.
 
 ![Section Image](https://github.com/Jorritvans/LOVELO/assets/146831899/9fc1517c-81ee-4a26-8821-16e7f1fc9077)
+
+- __Meetup Times section__
+
+  - This section shows the user where exactly the rides will be taking place and at what times they will be starting also including the distance that will be covered.
+  - This section can be updated for the users if the times might change during the year.
+
+![Meetup times](https://github.com/Jorritvans/LOVELO/assets/146831899/9767c6ef-b305-42c3-a0aa-c7772bd0b662)
