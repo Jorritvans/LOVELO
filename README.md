@@ -17,14 +17,14 @@ Users that will be using this site will be able to find all the information need
 
 - __The Hero Image__
 
-  -This image includes a text overlay which states the locations of the grouprides.
-  -This image is an image taken just after a group ride which i am personally also part of and will grab the attention of potential website visitors.
+  - This image includes a text overlay which states the locations of the grouprides.
+  - This image is an image taken just after a group ride which i am personally also part of and will grab the attention of potential website visitors.
 
 ![Hero Image](https://github.com/Jorritvans/LOVELO/assets/146831899/77b09a91-ffcf-4277-adea-f101db81ae32)
 
 - __Grupeta Section__
 
-  -The grupeta section will alow the users to see all the benefits of riding in a group and why you should consider joining us.
-  -The user will see the advantages of joining us in our groupride and that should encourage the user to sign up for our group ride.
+  - The grupeta section will alow the users to see all the benefits of riding in a group and why you should consider joining us.
+  - The user will see the advantages of joining us in our groupride and that should encourage the user to sign up for our group ride.
 
 ![Section Image](https://github.com/Jorritvans/LOVELO/assets/146831899/9fc1517c-81ee-4a26-8821-16e7f1fc9077)
