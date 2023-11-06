@@ -36,3 +36,33 @@ Users that will be using this site will be able to find all the information need
 
 ![Meetup times](https://github.com/Jorritvans/LOVELO/assets/146831899/598dbce7-984b-4a6e-9070-0eb6193a06a3)
 
+- __Footer__
+
+  - The footer includes links to the most important social media platforms ang Gmail.
+  - This is a valuable add to the website as it is a way to stay connected and up-to-date.
+ 
+![Footer Image](https://github.com/Jorritvans/LOVELO/assets/146831899/45939fc1-8dd8-4d02-93bb-01e41fb7aaee)
+
+- __Gallery__
+
+  -The gallery shows pictures of what the group ride will look like.
+  -This section is very important as it will give the usar a good idea of how the group rides will be like.
+
+![Gallery Page](https://github.com/Jorritvans/LOVELO/assets/146831899/dc3cfbe4-ee67-4564-9fb1-b1cbf131375a)
+
+- __Join Us Page__
+
+  -This page will allow the users to sign up and be notified when there will be any changes to the group ride and it will send you extra details to be able to join the next upcoming ride, the user will be able to submit their email,name and telephone number to be able to join and receive more information.
+
+![Join us Image](https://github.com/Jorritvans/LOVELO/assets/146831899/3f99cab4-04e6-46ef-ae94-3cb84419a321)
+
+- __Succes Page__
+
+  -This is a simple blank page that will show the user they have succesfully signed up.
+  -This page also includes a return to the Home Page button.
+
+![Succes Page](https://github.com/Jorritvans/LOVELO/assets/146831899/0a84fc4c-44b5-446c-92d4-8d5d827c5b89)
+
+
+## Testing 
+
