@@ -5,6 +5,8 @@ The website contains information about all the rides and why you should consider
 
 Users that will be using this site will be able to find all the information needed to participate in these group rides such as the meeting times, where it will be taking place and what you should be expecting from the ride.
 
+link to the website : https://jorritvans.github.io/LOVELO/
+
 <<<<<<< HEAD
 ![Mockup](https://github.com/Jorritvans/LOVELO/assets/146831899/4711963c-0ccc-45ed-b9ab-cb6a08b1500a)
 
@@ -48,6 +50,7 @@ Users that will be using this site will be able to find all the information need
 
   -The gallery shows pictures of what the group ride will look like.
   -This section is very important as it will give the usar a good idea of how the group rides will be like.
+  -Images are not alligned on desktop and ipad as resizing them would not do justice to these pictures as some have to be displayed in portrait mode.
 
 ![Gallery Page](https://github.com/Jorritvans/LOVELO/assets/146831899/dc3cfbe4-ee67-4564-9fb1-b1cbf131375a)
 
@@ -120,6 +123,7 @@ No unfixed bugs.
     but after a lot of searching up and using photo editors and converters i can say i have done everything in my power to make these pictures look the best way they possibly can be and i am pretty happy with how it all turned out.
   - I struggled a lot with the design as i am not the most creative mind and i am very bad with choosing colors and pictures, so i constantly asked people to help me out so the design looked good.
   - Sometimes i would forget what code to use and would search it up on google to find a solution and i am very proud of myself for always finding a solution to every issue i have encountered so far.
+  - As i previously mentioned in my gallerry section the pictures are not alligned perfectly as shown in my wirreframes, reason being is that some were taken in portrait mode and while trying to resize them they looked bad, so i decided to choose quality over looks and wanted to explain that in here.
 
   
 
