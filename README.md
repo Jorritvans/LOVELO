@@ -95,7 +95,8 @@ link to the website : https://jorritvans.github.io/LOVELO/
 
   -This page will allow the users to sign up and be notified when there will be any changes to the group ride and it will send you extra details to be able to join the next upcoming ride, the user will be able to submit their email,name and telephone number to be able to join and receive more information.
 
-![Join us Image](https://github.com/Jorritvans/LOVELO/assets/146831899/3f99cab4-04e6-46ef-ae94-3cb84419a321)
+![join us page](https://github.com/Jorritvans/LOVELO/assets/146831899/690ecea7-c9fe-4c6c-8de7-d21b223e7ef0)
+
 
 - __Succes Page__
 
