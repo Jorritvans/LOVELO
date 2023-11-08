@@ -76,6 +76,12 @@ In this Section i will be showing all the testing i have done.
 
 - __HTML__
   - No errors were returned when having tested all the html files in the official W3C validator.
+![html w3c test result](https://github.com/Jorritvans/LOVELO/assets/146831899/3f80e1be-53c5-4af2-a84c-38c741efc383)
+![w3c html gallery page](https://github.com/Jorritvans/LOVELO/assets/146831899/eb114cc1-02e9-4d4a-a551-cf8cf39dff49)
+![join us page w3c](https://github.com/Jorritvans/LOVELO/assets/146831899/d3a851c2-41ef-47e0-bbba-dd62d67f63ac)
+
+
+
 
 - __CSS__
   - No errors were found when checking the CSS passing it through the official (Jigsaw) validator.
@@ -105,6 +111,13 @@ No unfixed bugs.
 
  The link to my website can be found here- https://jorritvans.github.io/LOVELO/
 
+ ## Local Deployment 
+ - __git clone https://github.com/Jorritvans/LOVELO.git__
+   - Open cmd prompt (Windows) or terminal (Linux or Mac)
+   - Clone: git clone https://github.com/Jorritvans/LOVELO.git
+   - cd LOVELO
+   - double click index.html to run website locally
+
 ## Credits
 
 - __Code__
@@ -124,6 +137,7 @@ No unfixed bugs.
   - I struggled a lot with the design as i am not the most creative mind and i am very bad with choosing colors and pictures, so i constantly asked people to help me out so the design looked good.
   - Sometimes i would forget what code to use and would search it up on google to find a solution and i am very proud of myself for always finding a solution to every issue i have encountered so far.
   - As i previously mentioned in my gallerry section the pictures are not alligned perfectly as shown in my wirreframes, reason being is that some were taken in portrait mode and while trying to resize them they looked bad, so i decided to choose quality over looks and wanted to explain that in here.
+  - I am fully aware i have put an empty h2 in the succes.html page and this was done after a w3c html check as it suggested me putting it inbetween, i know this can be fixed with css padding and margin but i wanted to use this solution as maybe later on i do want to put some text in there and not have to worry about css.
 
   
 
