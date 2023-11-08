@@ -5,6 +5,7 @@ The website contains information about all the rides and why you should consider
 
 Users that will be using this site will be able to find all the information needed to participate in these group rides such as the meeting times, where it will be taking place and what you should be expecting from the ride.
 
+<<<<<<< HEAD
 ![Mockup](https://github.com/Jorritvans/LOVELO/assets/146831899/4711963c-0ccc-45ed-b9ab-cb6a08b1500a)
 
 ## Features
@@ -71,7 +72,7 @@ In this Section i will be showing all the testing i have done.
 ## Validator testing
 
 - __HTML__
-  - No errors were returned when having tested all the html files in the official W#C validator.
+  - No errors were returned when having tested all the html files in the official W3C validator.
 
 - __CSS__
   - No errors were found when checking the CSS passing it through the official (Jigsaw) validator.
@@ -94,7 +95,7 @@ No unfixed bugs.
 
 ## Deployment 
 
-- __The site was deployed to GitHub pages. The steps are:
+- __The site was deployed to GitHub pages. The steps are:__
   - In the GitHub repository go to the settings.
   - From the source menu choose Master Branch
   - Once that has been done the page provided me with the completed website.
@@ -123,4 +124,6 @@ No unfixed bugs.
   
 
 
+
+=======
 
