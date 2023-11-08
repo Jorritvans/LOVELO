@@ -107,10 +107,10 @@ link to the website : https://jorritvans.github.io/LOVELO/
 | Gallery button NAV BAR | Goes to the Gallery Page and underlines it      |   Does go to the Gallery Page and underlines it |
 | Join Us button NAV BAR        | Open the Join Us page and underline it in NAV BAR           | Opens the Join Us page and underlines it in the Nav Bar  |
 | submit button join us page | To submit the information given and redirect to Succes.html page | Submits the information and sends you to the succes.html page|
-| Social media butttons in footer      | When clicked, all should open and redirect you to the login page of that platform. | Takes you to login page of the social media networrk and on gmail redirects you to a blank e-mail with an e-mail adress already filled in to send it to (if already logged into Gmail) |
+| Social media butttons in footer      | When clicked, all should open and redirect you to the login page of that platform. | Takes you to the login page of the social media network and on gmail redirects you to a blank e-mail with an e-mail adress already filled in to send it to (if already logged into Gmail) |
 | Return to Home button      | Return to the Home page when clicked      |   Open the Home page when clicked |
-| Join us page information bars | when not filled in correctly it should give an error      |    Gives error if not filled in corrrectly with the email when missing an @ and with the name if nothing has been filled in. |
-| Join us page box | when clicked it should say in search bar =yes      |   Does show when the box was clicked in the search bar. |
+| Join us page information bars | when not filled in correctly it should give an error      |    Gives error if not filled in correctly with the email when missing an @ and with the name and telephone number if nothing has been filled in. |
+| Join us page box | when clicked it should say in search bar =yes      |   =Yes will show when the box was clicked in the search bar. |
 
 ## Manual Testing
 Have tested the website on all devices, all browsers and got multiple people testing it on their devices to make sure every single thing works and loads on the website.
