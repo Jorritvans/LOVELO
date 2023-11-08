@@ -15,13 +15,18 @@ link to the website : https://jorritvans.github.io/LOVELO/
 - __Desktop__
 
 - __Main Page__
+  
 ![main page desktop part 1](https://github.com/Jorritvans/LOVELO/assets/146831899/e41369db-b256-4a05-89ba-5e2003282120)
 ![desktop main page part 2](https://github.com/Jorritvans/LOVELO/assets/146831899/c233b7ba-803b-465d-afb5-a70e23fdb7f1)
 
+
 - __Gallery__
+  
 ![gallery page desktop](https://github.com/Jorritvans/LOVELO/assets/146831899/3817d5a8-1def-4379-b708-1d92531f60e3)
 
+
 - __Join US__
+  
 ![join us page desktop](https://github.com/Jorritvans/LOVELO/assets/146831899/bb3ef6fe-31d0-4cea-bc0c-28d161375c1e)
 
 
@@ -107,7 +112,7 @@ link to the website : https://jorritvans.github.io/LOVELO/
 | Gallery button NAV BAR | Goes to the Gallery Page and underlines it      |   Does go to the Gallery Page and underlines it |
 | Join Us button NAV BAR        | Open the Join Us page and underline it in NAV BAR           | Opens the Join Us page and underlines it in the Nav Bar  |
 | submit button join us page | To submit the information given and redirect to Succes.html page | Submits the information and sends you to the succes.html page|
-| Social media butttons in footer      | When clicked, all should open and redirect you to the login page of that platform. | Takes you to the login page of the social media network and on gmail redirects you to a blank e-mail with an e-mail adress already filled in to send it to (if already logged into Gmail) |
+| Social media buttons in footer      | When clicked, all should open and redirect you to the login page of that platform. | Takes you to the login page of the social media network and on gmail redirects you to a blank e-mail with an e-mail adress already filled in to send it to (if already logged into Gmail) |
 | Return to Home button      | Return to the Home page when clicked      |   Open the Home page when clicked |
 | Join us page information bars | when not filled in correctly it should give an error      |    Gives error if not filled in correctly with the email when missing an @ and with the name and telephone number if nothing has been filled in. |
 | Join us page box | when clicked it should say in search bar =yes      |   =Yes will show when the box was clicked in the search bar. |
