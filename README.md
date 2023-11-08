@@ -13,17 +13,21 @@ link to the website : https://jorritvans.github.io/LOVELO/
 ## Wireframes
 
 - __Desktop__
+
 ![main page desktop part 1](https://github.com/Jorritvans/LOVELO/assets/146831899/e41369db-b256-4a05-89ba-5e2003282120)
+![desktop main page part 2](https://github.com/Jorritvans/LOVELO/assets/146831899/c233b7ba-803b-465d-afb5-a70e23fdb7f1)
 ![gallery page desktop](https://github.com/Jorritvans/LOVELO/assets/146831899/3817d5a8-1def-4379-b708-1d92531f60e3)
 ![join us page desktop](https://github.com/Jorritvans/LOVELO/assets/146831899/bb3ef6fe-31d0-4cea-bc0c-28d161375c1e)
 
 
 - __Tablet__
+  
 ![tablet main page](https://github.com/Jorritvans/LOVELO/assets/146831899/5dea470a-03c4-489f-985d-af7be8d1bb76)
 ![gallery page tablet](https://github.com/Jorritvans/LOVELO/assets/146831899/542266b1-9750-4223-8f88-ff5b91b5f2d2)
 ![join us tablet](https://github.com/Jorritvans/LOVELO/assets/146831899/2ce6a084-56dd-49fe-af5a-3f7693d191ed)
 
 - __Phone__
+  
 ![phone main page ](https://github.com/Jorritvans/LOVELO/assets/146831899/7ac6c6a0-7aba-4342-bf85-45d8d75b82b1)
 ![gallery page phone](https://github.com/Jorritvans/LOVELO/assets/146831899/ffa66c6a-0e34-4fea-8c19-74498b085b82)
 ![join us page phone](https://github.com/Jorritvans/LOVELO/assets/146831899/29cb0e2c-6021-4660-8b3c-6f15fd83b2b6)
