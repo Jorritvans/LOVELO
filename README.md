@@ -50,7 +50,7 @@ link to the website : https://jorritvans.github.io/LOVELO/
 
 - __Navigation Bar__
 
-  - The navigation bar is feautured in all 3 pages, it includes links to the Home page,Gallery and Join Us page and is identical in each page for easier navigation.
+  - The navigation bar is featured in all 3 pages, it includes links to the Home page,Gallery and Join Us page and is identical in each page for easier navigation.
   - This section is made to allow the users to navigate more easily through my website without having to use a 'back' button.
 ![Nav bar](https://github.com/Jorritvans/LOVELO/assets/146831899/f5c5c403-bb2d-4b2b-b224-94ad64dd7d7e)
 
