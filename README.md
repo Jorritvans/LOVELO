@@ -10,6 +10,28 @@ link to the website : https://jorritvans.github.io/LOVELO/
 <<<<<<< HEAD
 ![Mockup](https://github.com/Jorritvans/LOVELO/assets/146831899/4711963c-0ccc-45ed-b9ab-cb6a08b1500a)
 
+## Wireframes
+
+- __Desktop__
+![main page desktop part 1](https://github.com/Jorritvans/LOVELO/assets/146831899/e41369db-b256-4a05-89ba-5e2003282120)
+![gallery page desktop](https://github.com/Jorritvans/LOVELO/assets/146831899/3817d5a8-1def-4379-b708-1d92531f60e3)
+![join us page desktop](https://github.com/Jorritvans/LOVELO/assets/146831899/bb3ef6fe-31d0-4cea-bc0c-28d161375c1e)
+
+
+- __Tablet__
+![tablet main page](https://github.com/Jorritvans/LOVELO/assets/146831899/5dea470a-03c4-489f-985d-af7be8d1bb76)
+![gallery page tablet](https://github.com/Jorritvans/LOVELO/assets/146831899/542266b1-9750-4223-8f88-ff5b91b5f2d2)
+![join us tablet](https://github.com/Jorritvans/LOVELO/assets/146831899/2ce6a084-56dd-49fe-af5a-3f7693d191ed)
+
+- __Phone__
+![phone main page ](https://github.com/Jorritvans/LOVELO/assets/146831899/7ac6c6a0-7aba-4342-bf85-45d8d75b82b1)
+![gallery page phone](https://github.com/Jorritvans/LOVELO/assets/146831899/ffa66c6a-0e34-4fea-8c19-74498b085b82)
+![join us page phone](https://github.com/Jorritvans/LOVELO/assets/146831899/29cb0e2c-6021-4660-8b3c-6f15fd83b2b6)
+
+
+
+
+
 ## Features
 
 - __Navigation Bar__
@@ -85,6 +107,8 @@ In this Section i will be showing all the testing i have done.
 
 - __CSS__
   - No errors were found when checking the CSS passing it through the official (Jigsaw) validator.
+![CSS test](https://github.com/Jorritvans/LOVELO/assets/146831899/51f3b20c-82fd-41bc-b36a-d815be29ad80)
+
 
 - __Accessibility__
   - I can confirm that the colors and fonts of the website are easily readable and accessible by doing a lighthouse test through devtools.
@@ -138,6 +162,7 @@ No unfixed bugs.
   - Sometimes i would forget what code to use and would search it up on google to find a solution and i am very proud of myself for always finding a solution to every issue i have encountered so far.
   - As i previously mentioned in my gallerry section the pictures are not alligned perfectly as shown in my wirreframes, reason being is that some were taken in portrait mode and while trying to resize them they looked bad, so i decided to choose quality over looks and wanted to explain that in here.
   - I am fully aware i have put an empty h2 in the succes.html page and this was done after a w3c html check as it suggested me putting it inbetween, i know this can be fixed with css padding and margin but i wanted to use this solution as maybe later on i do want to put some text in there and not have to worry about css.
+  - the succes.html barely got any work done as i wanted to keep it simple being a blank page with just the confirmation that the user successfully did everything and can return to the home page.
 
   
 
