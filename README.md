@@ -198,6 +198,7 @@ No unfixed bugs.
   - the succes.html barely got any work done as i wanted to keep it simple being a blank page with just the confirmation that the user successfully did everything and can return to the home page.
   - i struggled a while with how to position the form on the join us page and after a while i called forr help to my friend and fellow developer Arne Daerden and he gave me his solution to fixing the problem which was : -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%); as we did not learn this yet i wanted to make sure to tell you how i got this.
+  - sadly noticed i made some unclear commits which i can't change the name of anymore, i do remember every commit myself but for an outsider some might be confusing, so i am dissapointed that i cannot change the names anymore.
 
   
 
