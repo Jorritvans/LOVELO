@@ -189,13 +189,15 @@ No unfixed bugs.
 ## Advice and experience
 
 - __Struggles__
-  - Had a lot of issues trying to optimize every picture to look good and have a respectable loading time on the website, The main issue was that my idea was that i really wanted to use all the pictures from the actual group rides which some were taen by worse cameras whiich made the quality decrease..
+  - Had a lot of issues trying to optimize every picture to look good and have a respectable loading time on the website, The main issue was that my idea was that i really wanted to use all the pictures from the actual group rides which some were taken by worse cameras which made the quality decrease..
     but after a lot of searching up and using photo editors and converters i can say i have done everything in my power to make these pictures look the best way they possibly can be and i am pretty happy with how it all turned out.
   - I struggled a lot with the design as i am not the most creative mind and i am very bad with choosing colors and pictures, so i constantly asked people to help me out so the design looked good.
   - Sometimes i would forget what code to use and would search it up on google to find a solution and i am very proud of myself for always finding a solution to every issue i have encountered so far.
-  - As i previously mentioned in my gallerry section the pictures are not alligned perfectly as shown in my wirreframes, reason being is that some were taken in portrait mode and while trying to resize them they looked bad, so i decided to choose quality over looks and wanted to explain that in here.
+  - As i previously mentioned in my gallerry section the pictures are not alligned perfectly as shown in my wireframes, reason being is that some were taken in portrait mode and while trying to resize them they looked bad, so i decided to choose quality over looks and wanted to explain that in here.
   - I am fully aware i have put an empty h2 in the succes.html page and this was done after a w3c html check as it suggested me putting it inbetween, i know this can be fixed with css padding and margin but i wanted to use this solution as maybe later on i do want to put some text in there and not have to worry about css.
   - the succes.html barely got any work done as i wanted to keep it simple being a blank page with just the confirmation that the user successfully did everything and can return to the home page.
+  - i struggled a while with how to position the form on the join us page and after a while i called forr help to my friend and fellow developer Arne Daerden and he gave me his solution to fixing the problem which was : -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); as we did not learn this yet i wanted to make sure to tell you how i got this.
 
   
 
