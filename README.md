@@ -14,14 +14,14 @@ link to the website : https://jorritvans.github.io/LOVELO/
 
 - __Desktop__
 
--Main Page
+- __Main Page__
 ![main page desktop part 1](https://github.com/Jorritvans/LOVELO/assets/146831899/e41369db-b256-4a05-89ba-5e2003282120)
 ![desktop main page part 2](https://github.com/Jorritvans/LOVELO/assets/146831899/c233b7ba-803b-465d-afb5-a70e23fdb7f1)
 
-Gallery
+- __Gallery__
 ![gallery page desktop](https://github.com/Jorritvans/LOVELO/assets/146831899/3817d5a8-1def-4379-b708-1d92531f60e3)
 
--Join US
+- __Join US__
 ![join us page desktop](https://github.com/Jorritvans/LOVELO/assets/146831899/bb3ef6fe-31d0-4cea-bc0c-28d161375c1e)
 
 
