@@ -7,7 +7,7 @@ Users that will be using this site will be able to find all the information need
 
 link to the website : https://jorritvans.github.io/LOVELO/
 
-<<<<<<< HEAD
+
 ![Mockup](https://github.com/Jorritvans/LOVELO/assets/146831899/4711963c-0ccc-45ed-b9ab-cb6a08b1500a)
 
 ## Wireframes
