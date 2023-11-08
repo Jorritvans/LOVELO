@@ -52,6 +52,7 @@ link to the website : https://jorritvans.github.io/LOVELO/
 
   - The navigation bar is featured in all 3 pages, it includes links to the Home page,Gallery and Join Us page and is identical in each page for easier navigation.
   - This section is made to allow the users to navigate more easily through my website without having to use a 'back' button.
+    
 ![Nav bar](https://github.com/Jorritvans/LOVELO/assets/146831899/f5c5c403-bb2d-4b2b-b224-94ad64dd7d7e)
 
 - __The Hero Image__
@@ -124,6 +125,7 @@ Have tested the website on all devices, all browsers and got multiple people tes
 
 - __HTML__
   - No errors were returned when having tested all the html files in the official W3C validator.
+    
 ![html w3c test result](https://github.com/Jorritvans/LOVELO/assets/146831899/3f80e1be-53c5-4af2-a84c-38c741efc383)
 ![w3c html gallery page](https://github.com/Jorritvans/LOVELO/assets/146831899/eb114cc1-02e9-4d4a-a551-cf8cf39dff49)
 ![join us page w3c](https://github.com/Jorritvans/LOVELO/assets/146831899/d3a851c2-41ef-47e0-bbba-dd62d67f63ac)
@@ -133,6 +135,7 @@ Have tested the website on all devices, all browsers and got multiple people tes
 
 - __CSS__
   - No errors were found when checking the CSS passing it through the official (Jigsaw) validator.
+    
 ![CSS test](https://github.com/Jorritvans/LOVELO/assets/146831899/51f3b20c-82fd-41bc-b36a-d815be29ad80)
 
 
@@ -140,12 +143,15 @@ Have tested the website on all devices, all browsers and got multiple people tes
   - I can confirm that the colors and fonts of the website are easily readable and accessible by doing a lighthouse test through devtools.
 
 - __Home Page Score__
+  
 ![Lighthouse Score Home Page](https://github.com/Jorritvans/LOVELO/assets/146831899/aadbfe25-92cf-49e2-9a6a-864f84c642f0)
 
 - __Gallery Page Score__
+  
 ![Gallery Page Score](https://github.com/Jorritvans/LOVELO/assets/146831899/287bdf70-f85e-4fdc-aff3-62f0ebc20107)
 
 - __Join Us Page Score__
+  
 ![Join Us page Score](https://github.com/Jorritvans/LOVELO/assets/146831899/a12c73e1-3f9d-4be8-b5da-b3848348155c)
 
 ## Unfixed Bugs
